@@ -1,4 +1,4 @@
-##👋
+👋
 
 - Esteban Cárdenes
 - Nibaldo Chavez
