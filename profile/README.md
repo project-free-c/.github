@@ -1,4 +1,4 @@
-## Training web factura 👋
+##👋
 
 - Esteban Cárdenes
 - Nibaldo Chavez
